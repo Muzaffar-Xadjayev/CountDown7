@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+body{
+    background-color: rgb(5, 21, 32);
+}
+.container{
+    margin: 17% auto;
+    text-align: center;
+}
+.container .h2{
+    color: #fff;
+    font-size: 2.7rem;
+}
+.container .general{
+    display: flex;
+    justify-content: center;
+
+}
+.general .box{
+    margin: 20px;
+    font-size: 1.5rem;
+    color: #fff;
+
+}
+.general h4{
+    background-color: rgb(27, 172, 172);
+    padding: 0.4rem;
+    color: #fff;
+}
